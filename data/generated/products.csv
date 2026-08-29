@@ -1,0 +1,61 @@
+id,brand,model_name,segment,cost_price,retail_price,margin,margin_pct,launch_week,lifecycle_stage,markdown_percentage,successor_product_id,expected_successor_week,launch_confidence,is_rumoured
+PROD_001,Nova,Nova Go 4G,Budget,6500.0,7800.0,1300.0,0.1667,10,Peak,0.0,,,1.0,False
+PROD_002,Nova,Nova Go 5G,Budget,8500.0,10200.0,1700.0,0.1667,25,Growth,0.0,,,1.0,False
+PROD_003,Apex,Apex Lite 10,Budget,7200.0,8700.0,1500.0,0.1724,1,Decline,0.12,PROD_004,22.0,1.0,False
+PROD_004,Apex,Apex Lite 11,Budget,7800.0,9400.0,1600.0,0.1702,42,Launch,0.0,,,1.0,False
+PROD_005,Vortex,Vortex Spark A1,Budget,5800.0,6900.0,1100.0,0.1594,-15,EOL,0.28,PROD_006,15.0,1.0,False
+PROD_006,Vortex,Vortex Spark A2,Budget,6200.0,7500.0,1300.0,0.1733,10,Peak,0.0,,,1.0,False
+PROD_007,Aura,Aura Play 3,Budget,9000.0,10900.0,1900.0,0.1743,10,Peak,0.0,,,1.0,False
+PROD_008,Zenith,Zenith C1,Budget,9500.0,11500.0,2000.0,0.1739,25,Growth,0.0,,,1.0,False
+PROD_009,Titan,Titan Mini 1,Budget,11000.0,13400.0,2400.0,0.1791,10,Peak,0.0,,,1.0,False
+PROD_010,Nova,Nova Go Max,Budget,12000.0,14600.0,2600.0,0.1781,25,Growth,0.0,,,1.0,False
+PROD_011,Vortex,Vortex Spark Pro,Budget,10500.0,12800.0,2300.0,0.1797,1,Decline,0.12,PROD_012,30.0,0.65,True
+PROD_012,Vortex,Vortex Spark Pro 2,Budget,11200.0,13700.0,2500.0,0.1825,42,Launch,0.0,,,0.65,True
+PROD_013,Apex,Apex Lite Prime,Budget,8200.0,9900.0,1700.0,0.1717,10,Peak,0.0,,,1.0,False
+PROD_014,Zenith,Zenith C2,Budget,10200.0,12400.0,2200.0,0.1774,25,Growth,0.0,,,1.0,False
+PROD_015,Aura,Aura Play 4,Budget,9800.0,11900.0,2100.0,0.1765,42,Launch,0.0,,,1.0,False
+PROD_016,Titan,Titan Mini 2,Budget,11500.0,14000.0,2500.0,0.1786,25,Growth,0.0,,,1.0,False
+PROD_017,Nova,Nova Core 1,Budget,6800.0,8100.0,1300.0,0.1605,-15,EOL,0.28,,,1.0,False
+PROD_018,Vortex,Vortex Beat 2,Budget,7400.0,8900.0,1500.0,0.1685,1,Decline,0.12,,,1.0,False
+PROD_019,Apex,Apex Note 11,Mid-Range,14000.0,17200.0,3200.0,0.186,1,Decline,0.12,PROD_020,18.0,1.0,False
+PROD_020,Apex,Apex Note 12,Mid-Range,15500.0,19100.0,3600.0,0.1885,10,Peak,0.0,,,1.0,False
+PROD_021,Zenith,Zenith Zone 7,Mid-Range,18000.0,22200.0,4200.0,0.1892,10,Peak,0.0,,,1.0,False
+PROD_022,Zenith,Zenith Zone 8,Mid-Range,20500.0,25300.0,4800.0,0.1897,25,Growth,0.0,,,1.0,False
+PROD_023,Nova,Nova Pro 10,Mid-Range,22000.0,27100.0,5100.0,0.1882,1,Decline,0.12,PROD_024,25.0,1.0,False
+PROD_024,Nova,Nova Pro 11,Mid-Range,24500.0,30200.0,5700.0,0.1887,42,Launch,0.0,,,1.0,False
+PROD_025,Aura,Aura Pulse 5,Mid-Range,16500.0,20300.0,3800.0,0.1872,10,Peak,0.0,,,1.0,False
+PROD_026,Vortex,Vortex Velocity 3,Mid-Range,19000.0,23400.0,4400.0,0.188,10,Peak,0.0,,,1.0,False
+PROD_027,Titan,Titan Edge 2,Mid-Range,26000.0,32100.0,6100.0,0.19,25,Growth,0.0,,,1.0,False
+PROD_028,Apex,Apex Note 12 Pro,Mid-Range,28000.0,34600.0,6600.0,0.1908,25,Growth,0.0,,,1.0,False
+PROD_029,Zenith,Zenith Zone 8 Ultra,Mid-Range,30000.0,37100.0,7100.0,0.1914,10,Peak,0.0,,,1.0,False
+PROD_030,Nova,Nova Pro 10 Plus,Mid-Range,25000.0,30900.0,5900.0,0.1909,-15,EOL,0.28,,,1.0,False
+PROD_031,Aura,Aura Pulse 6,Mid-Range,17500.0,21600.0,4100.0,0.1898,25,Growth,0.0,,,1.0,False
+PROD_032,Vortex,Vortex Velocity 4,Mid-Range,21000.0,25900.0,4900.0,0.1892,42,Launch,0.0,,,1.0,False
+PROD_033,Titan,Titan Edge 2 SE,Mid-Range,23000.0,28400.0,5400.0,0.1901,10,Peak,0.0,,,1.0,False
+PROD_034,Apex,Apex Speed X,Mid-Range,16000.0,19700.0,3700.0,0.1878,1,Decline,0.12,PROD_035,35.0,0.55,True
+PROD_035,Apex,Apex Speed X2,Mid-Range,17200.0,21200.0,4000.0,0.1887,42,Launch,0.0,,,0.55,True
+PROD_036,Zenith,Zenith Zone Lite,Mid-Range,14500.0,17900.0,3400.0,0.1899,10,Peak,0.0,,,1.0,False
+PROD_037,Nova,Nova Style 5G,Mid-Range,19500.0,24000.0,4500.0,0.1875,25,Growth,0.0,,,1.0,False
+PROD_038,Aura,Aura Pulse Pro,Mid-Range,27000.0,33300.0,6300.0,0.1892,10,Peak,0.0,,,1.0,False
+PROD_039,Zenith,Zenith Ultra 23,Premium,38000.0,47500.0,9500.0,0.2,1,Decline,0.12,PROD_040,12.0,1.0,False
+PROD_040,Zenith,Zenith Ultra 24,Premium,42000.0,52600.0,10600.0,0.2015,10,Peak,0.0,,,1.0,False
+PROD_041,Apex,Apex Master 5,Premium,46000.0,57600.0,11600.0,0.2014,10,Peak,0.0,,,1.0,False
+PROD_042,Apex,Apex Master 6,Premium,50000.0,62700.0,12700.0,0.2026,25,Growth,0.0,,,1.0,False
+PROD_043,Titan,Titan Pro Fold 1,Premium,54000.0,67800.0,13800.0,0.2035,1,Decline,0.12,PROD_044,28.0,1.0,False
+PROD_044,Titan,Titan Pro Fold 2,Premium,58000.0,72900.0,14900.0,0.2044,42,Launch,0.0,,,1.0,False
+PROD_045,Nova,Nova Flagship Lite,Premium,35000.0,43700.0,8700.0,0.1991,10,Peak,0.0,,,1.0,False
+PROD_046,Aura,Aura Vantage 1,Premium,40000.0,50100.0,10100.0,0.2016,10,Peak,0.0,,,1.0,False
+PROD_047,Vortex,Vortex Phantom 8,Premium,44000.0,55100.0,11100.0,0.2015,25,Growth,0.0,,,1.0,False
+PROD_048,Zenith,Zenith Ultra 24 Plus,Premium,48000.0,60200.0,12200.0,0.2027,25,Growth,0.0,,,1.0,False
+PROD_049,Apex,Apex Master 6 Pro,Premium,52000.0,65300.0,13300.0,0.2037,42,Launch,0.0,,,1.0,False
+PROD_050,Aura,Aura Vantage 2,Premium,43000.0,53900.0,10900.0,0.2022,25,Growth,0.0,,,1.0,False
+PROD_051,Nova,Nova Flagship SE,Premium,37000.0,46300.0,9300.0,0.2009,1,Decline,0.12,PROD_052,38.0,0.45,True
+PROD_052,Nova,Nova Flagship SE 2,Premium,39000.0,48900.0,9900.0,0.2025,42,Launch,0.0,,,0.45,True
+PROD_053,Titan,Titan Fold Ultra 1,Flagship,72000.0,92200.0,20200.0,0.2191,1,Decline,0.12,PROD_056,16.0,1.0,False
+PROD_054,Titan,Titan Fold Ultra 2,Flagship,82000.0,105000.0,23000.0,0.219,10,Peak,0.0,,,1.0,False
+PROD_055,Zenith,Zenith Monarch 14,Flagship,90000.0,115200.0,25200.0,0.2188,1,Decline,0.12,PROD_058,24.0,1.0,False
+PROD_056,Zenith,Zenith Monarch 15,Flagship,102000.0,130600.0,28600.0,0.219,25,Growth,0.0,,,1.0,False
+PROD_057,Apex,Apex Sovereign 1,Flagship,108000.0,138300.0,30300.0,0.2191,1,Decline,0.12,PROD_060,42.0,0.5,True
+PROD_058,Apex,Apex Sovereign 2,Flagship,118000.0,149500.0,31500.0,0.2107,42,Launch,0.0,,,0.5,True
+PROD_059,Aura,Aura Legend Fold,Flagship,78000.0,99800.0,21800.0,0.2184,10,Peak,0.0,,,1.0,False
+PROD_060,Vortex,Vortex Eclipse Pro,Flagship,85000.0,108800.0,23800.0,0.2188,25,Growth,0.0,,,1.0,False

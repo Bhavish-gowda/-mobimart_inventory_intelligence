@@ -1,0 +1,13 @@
+product_id,event_type,target_product_id,week_number,is_rumoured,launch_confidence,description
+PROD_003,Successor_Launch,PROD_004,22,False,1.0,Successor PROD_004 launch scheduled for week 22
+PROD_005,Successor_Launch,PROD_006,15,False,1.0,Successor PROD_006 launch scheduled for week 15
+PROD_011,Successor_Launch,PROD_012,30,True,0.65,Successor PROD_012 launch scheduled for week 30
+PROD_019,Successor_Launch,PROD_020,18,False,1.0,Successor PROD_020 launch scheduled for week 18
+PROD_023,Successor_Launch,PROD_024,25,False,1.0,Successor PROD_024 launch scheduled for week 25
+PROD_034,Successor_Launch,PROD_035,35,True,0.55,Successor PROD_035 launch scheduled for week 35
+PROD_039,Successor_Launch,PROD_040,12,False,1.0,Successor PROD_040 launch scheduled for week 12
+PROD_043,Successor_Launch,PROD_044,28,False,1.0,Successor PROD_044 launch scheduled for week 28
+PROD_051,Successor_Launch,PROD_052,38,True,0.45,Successor PROD_052 launch scheduled for week 38
+PROD_053,Successor_Launch,PROD_056,16,False,1.0,Successor PROD_056 launch scheduled for week 16
+PROD_055,Successor_Launch,PROD_058,24,False,1.0,Successor PROD_058 launch scheduled for week 24
+PROD_057,Successor_Launch,PROD_060,42,True,0.5,Successor PROD_060 launch scheduled for week 42
