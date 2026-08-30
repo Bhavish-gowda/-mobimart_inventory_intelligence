@@ -4,6 +4,21 @@
 
 ---
 
+### Live Demo & Submission
+
+**Frontend (Deployed):**  
+https://mobimart-frontend.onrender.com  
+Visit this link to explore and experience the complete MobiMart Inventory Intelligence project.
+
+**Backend (Deployed):**  
+https://mobimart-inventory.onrender.com
+
+**Video Walkthrough & Screenshots:**  
+https://drive.google.com/drive/folders/1r9dnFApDXZy9uZZSzIpY4lLAoBDppKZw?usp=sharing  
+The Google Drive folder contains the video walkthrough/explanation and project screenshots.
+
+---
+
 ## 📌 What is MobiMart?
 
 Imagine **MobiMart** operates a chain of **25 retail stores** across Karnataka, selling **60 smartphone models** ranging from budget devices (₹10,000) to premium flagships (₹1,20,000+). 
